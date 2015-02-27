@@ -1,0 +1,4 @@
+person	height	star_sign
+scott	1.95	gemini
+justin	1.75	pisces
+enrique	1.87	taurus
